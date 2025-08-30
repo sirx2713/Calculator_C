@@ -2,6 +2,31 @@
 
 //Calculator
 
+//Pseudocode
+
+//Input
+//1. First Number
+//2. Second Number
+
+//Process
+//Processing Items
+//1. sum
+//2. product
+//3. difference
+//4. division
+//5. power
+
+//Algorithm
+//1. Enter First number
+//2. Enter Second number
+//3. Enter the math operator
+//4. Display the answer
+
+//Output
+//1. The math operation of the first number and second number
+//2. The answer from the math operation
+
+
 //Getting user input
 Console.Write("Enter first number: ");
 var number1 = Convert.ToDouble(Console.ReadLine());
